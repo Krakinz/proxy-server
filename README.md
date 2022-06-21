@@ -5,12 +5,12 @@ Proxies requests with the `Access-Control-Allow-Origin : *` header
 
 ### Usage
 ```sh
- GET http://proxy-server.herokuapp.com/[URL]
+ GET http://proxy-s.herokuapp.com/[URL]
 ```
 
 e.g.  
 ```sh 
-GET http://proxy-server.herokuapp.com/http://safaricom.com
+GET http://proxy-s.herokuapp.com/http://safaricom.com
 ```
 
 ### License
